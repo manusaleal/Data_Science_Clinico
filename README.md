@@ -4,4 +4,10 @@ Olá! Neste notebook iremos tratar de diversos assuntos relacionados a Data Scie
 
 Estes exercícios foram feitos durante a máteria de Engenharia Médica na UNIFESP e os códigos, todos desenvolvidos por mim.
 
+1. Probabilidade e Inferência
+2. Extração de Características (ou *freatures*)
+3. Seleção de Características
+
+
 Obs.: Infelizmente não poderei disponibilizar os arquivos contendo os dados porque não é de minha autoria.
+
