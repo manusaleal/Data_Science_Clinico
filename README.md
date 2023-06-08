@@ -4,9 +4,9 @@ Olá! Neste repositório, iremos tratar sobre diversos assuntos relacionados a D
 
 Estes exercícios foram feitos durante a máteria de Engenharia Médica na UNIFESP e os códigos, desenvolvidos por mim.
 
-1. Probabilidade e Inferência
-2. Extração de Características (ou *features*)
-3. Seleção de Características
+1. [Probabilidade e Inferência](1_Probabilidade_e_Inferencia.ipynb)
+2. [Extração de Características (ou *features*)](2_Extracao__Features.ipynb)
+3. [Seleção de Características]
 
 
 Obs.: Infelizmente não poderei disponibilizar os arquivos contendo os dados porque não é de minha autoria.
